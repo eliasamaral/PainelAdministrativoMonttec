@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@admin-bro/express": "^3.1.0",
+    "@admin-bro/mongoose": "^1.1.0",
+    "admin-bro": "^4.0.1",
+    "bcrypt": "^5.0.1",
+    "cookie-parser": "^1.4.6",
+    "express": "^4.17.2",
+    "express-formidable": "^1.2.0",
+    "express-session": "^1.17.2",
+    "mongoose": "^6.1.9",
+    "tslib": "^2.3.1"
+  }
+}
